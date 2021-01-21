@@ -1,8 +1,17 @@
-html {
-    background-color: darkslategrey;
-    color: white;
+body {
+
+
 }
 
 a {
-    color: red;
+    color: purple;
+}
+
+.temporario {
+  background: rgb(175,66,207);
+  background: linear-gradient(21deg, rgba(175,66,207,1) 0%, rgba(125,108,221,1) 24%, rgba(0,212,255,1) 80%);
+  color: white;
+  width: 2000px;
+  height: 1000px;
+  margin: 0px;
 }
